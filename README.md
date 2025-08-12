@@ -9,3 +9,5 @@ Your error will read `"ur so gay"`
 And the function takes the params `exc_type`, `exc_value`, and `exc_traceback` so it's totally customizable.
 
 go crazy big dog
+
+and this is so stupid that the readme has like twice as many lines as the code fufuuuuc
