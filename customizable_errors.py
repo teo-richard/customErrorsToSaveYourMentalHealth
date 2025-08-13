@@ -5,3 +5,4 @@ def emoji_excepthook(exc_type, exc_value, exc_traceback):
 
 
 sys.excepthook = emoji_excepthook
+

@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+customErrorMessagesToSaveYourMentalHealth.egg-info/PKG-INFO
+customErrorMessagesToSaveYourMentalHealth.egg-info/SOURCES.txt
+customErrorMessagesToSaveYourMentalHealth.egg-info/dependency_links.txt
+customErrorMessagesToSaveYourMentalHealth.egg-info/top_level.txt

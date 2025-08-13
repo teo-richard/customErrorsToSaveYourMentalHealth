@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: customErrorMessagesToSaveYourMentalHealth
+Version: 0.1.1
+Summary: DONT KILL YOURSELF JUST YET, ENJOY ADDING EMOJIS AND WHATNOT TO YOUR ERROR MESSAGES
+Author: Teo Richard
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
+
+Use this to create customizable error messages in Python. This works for VS code idk if it works for other stuff.
+Easy to change though damn bro
+
+for example if you choose to put the statement:
+`print("ur so gay")` in your function, and you do:
+`1/0`
+Your error will read `"ur so gay"`
+
+And the function takes the params `exc_type`, `exc_value`, and `exc_traceback` so it's totally customizable.
+
+go crazy big dog
+
+and this is so stupid that the readme has like twice as many lines as the code fufuuuuc
