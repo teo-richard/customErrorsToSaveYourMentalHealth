@@ -1,0 +1,8 @@
+.DS_Store
+.Rhistory
+dist
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+top_level.txt
+tests/
