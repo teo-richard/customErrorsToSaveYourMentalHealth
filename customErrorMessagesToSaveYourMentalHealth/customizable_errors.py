@@ -16,7 +16,7 @@ class ErrorHandler:
         self.theme_mode = theme_mode
         self.theme_name = theme_name
 
-        if theme_name == "motivate me":
+        if self.theme_name == "motivate me":
             while True:
                 print("gay ")
 
