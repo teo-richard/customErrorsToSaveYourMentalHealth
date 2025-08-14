@@ -42,3 +42,10 @@ Parameters: \
 `want_original` - if you want the original error (it'll give you `__excepthook__`)
 
 If you are illiterate and don't put things in correctly the code will be mean to you and then default to the default themes. 
+
+**Current themes supported**
+* `"romance"` (3)
+* `"sad"` (3)
+* `"danger"` (3) (created by chatgpt w/ minimal editing ngl)
+* `"brainrot"` (3)
+There's also a special one called `"motivate me"`. If you keep this as your `theme_name` you will not make any errors, I promise.

@@ -16,6 +16,10 @@ class ErrorHandler:
         self.theme_mode = theme_mode
         self.theme_name = theme_name
 
+        if theme_name == "motivate me":
+            while True:
+                print("gay ")
+
         self.want_original = want_original
         self.original_hook = sys.__excepthook__
 
@@ -68,7 +72,6 @@ class ErrorHandler:
 
 
 
+sys.excepthook = ErrorHandler(theme_name="motivate me")
 
-#sys.excepthook = ErrorHandler(theme_name="random", theme_mode = "both")
-
-#1/0
+1/10
