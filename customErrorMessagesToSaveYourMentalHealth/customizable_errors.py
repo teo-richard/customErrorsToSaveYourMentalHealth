@@ -69,9 +69,3 @@ class ErrorHandler:
         if self.want_original and bad_theme != True:
             self.original_hook(exc_type, exc_value, exc_traceback)
  
-
-
-
-sys.excepthook = ErrorHandler(theme_name="motivate me")
-
-1/10
