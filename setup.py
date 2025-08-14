@@ -11,7 +11,7 @@ except FileNotFoundError:
 
 setup(
     name="customErrorMessagesToSaveYourMentalHealth",
-    version="0.2.2",
+    version="0.2.9",
     packages=find_packages(),
     description="DONT KILL YOURSELF JUST YET, ENJOY ADDING EMOJIS AND WHATNOT TO YOUR ERROR MESSAGES",
     long_description=long_description,

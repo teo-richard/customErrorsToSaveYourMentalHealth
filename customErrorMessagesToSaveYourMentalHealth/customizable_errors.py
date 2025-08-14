@@ -1,7 +1,7 @@
 import sys
 import json
 import random
-from dictionary_of_themes import THEMES as DEFAULT_THEMES 
+from .dictionary_of_themes import THEMES as DEFAULT_THEMES 
 
 class ErrorHandler:
     def __init__(self, 
