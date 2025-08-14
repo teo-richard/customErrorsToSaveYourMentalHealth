@@ -16,10 +16,6 @@ class ErrorHandler:
         self.theme_mode = theme_mode
         self.theme_name = theme_name
 
-        if self.theme_name == "motivate me":
-            while True:
-                print("gay ")
-
         self.want_original = want_original
         self.original_hook = sys.__excepthook__
 
@@ -50,6 +46,11 @@ class ErrorHandler:
             self.theme = DEFAULT_THEMES
 
     def __call__(self, exc_type, exc_value, exc_traceback):
+
+        if self.theme_name == "motivate me":
+            while True:
+                print("gay ")
+
         bad_theme = False
         if self.theme_name is None:
             print(f"{self.message}")
